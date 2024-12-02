@@ -4,7 +4,7 @@ package ConfluenceJira_SmokeTests.ConfluenceJira_SmokeTests;
  * Hello world!
  *
  */
-public class App 
+public class App testeteste
 {
     public static void main( String[] args )
     {
